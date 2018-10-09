@@ -1,0 +1,17 @@
+Hourly:
+Crimes are with arrests clearly maximum in the nighttime hours when people are still likely to be outside.
+It's likely that with fewer people out late in the night, there's less opportunity for crime.
+We also see that there's more crime around lunchtime, again possibly due to people being out before returning home/ to work.
+
+Day of Week:
+It's difficult to explain, but the most crime occurs on weekdays from Tuesday-Friday but not Monday.
+The biggest drop is on Sunday.
+
+This could be explained by there being more people out and commuting on weekdays than especially Sunday.
+Also Monday being the first day of the week perhaps people tend to go straight home typically.
+It's also possible that police staffing is less on Sundays, and maybe even Mondays, resulting in fewer arrests.
+
+Month of Year:
+While we know that crime itself occurs more frequently in the warm summer months, arrests are fairly stable.
+This means that a number of criminals in the summer likely go uncaught, perhaps demonstrating a need for increased police presence.
+While January is a relatively low crime month, there's a large number of arrests, which could maybe be attributed to a post Christmas show of strength for the new year, and increased law-enforcement motivation.

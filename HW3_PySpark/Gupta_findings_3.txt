@@ -1,0 +1,2 @@
+The random forest model got a test set R-Squared of 0.68.
+Predictors included crime for that beat in the last 5 weeks, and the unemployment rate.

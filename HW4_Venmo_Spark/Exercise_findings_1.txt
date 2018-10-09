@@ -1,0 +1,8 @@
+Exercise 1:
+
+For the undirected graph, we need to make the data invariant to the order of nodes, by flipping the columns and appending, and then for each node finding the unique number of nodes it has a relation with.
+We find an extremely right skewed distribution, which had to be cut at the 90th percentile.
+
+The indegree and outdegree plots were also very right skewed, but there were more users with very large indegrees.
+
+It should be noted that the payment/request data was not incorporated, just whether the user was user1 or user2.

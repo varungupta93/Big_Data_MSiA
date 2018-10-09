@@ -1,0 +1,20 @@
+Exercise 2:
+
+We see the top emojis are for pizza and beer, which seems appropriate.
+
+We do see that on Tuesday and Wednesday, pizza is no longer the most common emoji, perhaps with people  neither too miserable like on Monday nor too happy.
+As one would expect, on Friday, Saturday and Sunday, beers are more commonly used (2nd highest), with many other drinks emojis as well.
+
+
+
+When performing clustering, the features used were:
+Number of emojis, #utility emojis, #food emojis, # of characters, # of words, length of largest word.
+
+After normalizing data, and testing on 2-6 cluster solutions, the 5 cluster solution was found to be optimal.
+
+The 5 cluster solution gives us the following cluster profiles:
+Cluster 1- low on emojis, high on words and characters
+Cluster 2- About average on emojis of all forms, low on other characters
+Cluster 3- Above average on words and characters - verbose, more likely to use food emoji than utility
+Cluster 4- Extremely above average on emojis - almost spam. All food. Perhaps excited people post dinner.
+Cluster 5- Plenty of emojis again, more likely to be utility emojis than food though.

@@ -1,0 +1,45 @@
+
+
+__Cluster Number 1__
+Number of Emojis  :  -0.0392821941748
+Utility Emojis  :  -0.0280840745892
+Food Emojis  :  -0.0160224654894
+Number of Characters  :  0.418708862733
+Number of Words  :  0.349057175538
+Largest Word Length  :  0.354629260718
+
+
+__Cluster Number 2__
+Number of Emojis  :  0.00671737522229
+Utility Emojis  :  0.0148424254759
+Food Emojis  :  0.00348669250098
+Number of Characters  :  -0.350352574651
+Number of Words  :  -0.31443324654
+Largest Word Length  :  -0.226661647744
+
+
+__Cluster Number 3__
+Number of Emojis  :  0.196174024821
+Utility Emojis  :  -0.0106832198812
+Food Emojis  :  0.0601590457056
+Number of Characters  :  3.01216495636
+Number of Words  :  3.08300903567
+Largest Word Length  :  0.807895478684
+
+
+__Cluster Number 4__
+Number of Emojis  :  160.169331952
+Utility Emojis  :  -0.0468800390052
+Food Emojis  :  452.113016829
+Number of Characters  :  52.0468436681
+Number of Words  :  19.1947904843
+Largest Word Length  :  124.723351782
+
+
+__Cluster Number 5__
+Number of Emojis  :  50.418315257
+Utility Emojis  :  4.78840725421
+Food Emojis  :  2.27352667311
+Number of Characters  :  68.7975614309
+Number of Words  :  55.1455825559
+Largest Word Length  :  47.2605713793

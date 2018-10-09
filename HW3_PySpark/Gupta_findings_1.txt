@@ -1,0 +1,3 @@
+There is an increase in crime rate in the warmer months, which intuitively makes sense given people spend much longer outdoors.
+There also exists some dubious research which shows an increase in anger and violent tendencies with heat, but that's a stretch at best.
+Lastly since this data is not normalized for the number of days in the month, some months such as February will look particularly low, even given the cold temperatures.

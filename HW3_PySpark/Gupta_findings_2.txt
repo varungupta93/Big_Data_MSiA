@@ -1,0 +1,11 @@
+2a:
+The top 10 blocks in terms of total crime for the last 3 years were saved in the txt.
+
+2b:
+A few very correlated groups of beats which don't appear in the attached map were dropped, to see neighbors we can more easily find.
+These beats were those beginning with 13, 21 and 23.
+The beats with highest correlation were 0921 and 0922 with 0.99.
+
+2c. 
+Under Mayor Rahm, there was significantly less crime per year on average (as established by the z-test results).
+Further analysis could be done, time permitting, to see if this was just the result of an extended trend, and also to see if it's the result of more gentrification of safer areas but not cleaning up of bad districts.
